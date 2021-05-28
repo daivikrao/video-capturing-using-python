@@ -14,9 +14,13 @@
    ```python
          pip install opencv
    ```
-   * Install bokeh which is used for plotting graph
+   * Install bokeh ,which is used for plotting graph
 
    ```python
         pip install bokeh
    ```
+   * Install pandas ,which is used for storing data into a csv file
 
+   ```python
+        pip install pandas
+   ```
