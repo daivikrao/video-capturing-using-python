@@ -13,9 +13,9 @@
    ```python
          pip install opencv
    ```
-        * Install bokeh which is used for plotting graph
+   * Install bokeh which is used for plotting graph
 
-        ```python
-             pip install bokeh
-        ```
+   ```python
+        pip install bokeh
+   ```
 
