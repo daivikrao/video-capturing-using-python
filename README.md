@@ -9,7 +9,7 @@
   * The project can be used to capture the time for which any wild animals were in the frame.
 
 ## **Requirements**
-  * Install opencv
+  * Install opencv ,which is used for image processing and video capturing.
 
    ```python
          pip install opencv
