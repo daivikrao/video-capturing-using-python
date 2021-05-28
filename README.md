@@ -8,11 +8,11 @@
   * The project can be used to capture the time for which any wild animals were in the frame.
 
 ## **Requirements**
-        * Install opencv
+  * Install opencv
 
-        ```python
-             pip install opencv
-        ```
+   ```python
+         pip install opencv
+   ```
         * Install bokeh which is used for plotting graph
 
         ```python
